@@ -1,0 +1,1 @@
+{"fileName":"/home/wladyr/project-react-testing-library/sd-028-b-project-react-testing-library/src/pages/Pokedex.js","id":"11","location":{"start":{"column":30,"line":18},"end":{"column":3,"line":20}},"mutatorName":"BlockStatement","replacement":"{}","statusReason":"Ignored because of excluded mutation \"BlockStatement\"","status":"Ignored","static":false}

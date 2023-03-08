@@ -1,0 +1,1 @@
+{"fileName":"/home/wladyr/project-react-testing-library/sd-028-b-project-react-testing-library/src/pages/Pokedex.js","id":"12","location":{"start":{"column":18,"line":19},"end":{"column":51,"line":19}},"mutatorName":"ObjectLiteral","replacement":"{}","statusReason":"Ignored because of excluded mutation \"ObjectLiteral\"","status":"Ignored","static":false}

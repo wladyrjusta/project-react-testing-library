@@ -1,0 +1,1 @@
+{"fileName":"/home/wladyr/project-react-testing-library/sd-028-b-project-react-testing-library/src/pages/Pokedex.js","id":"27","location":{"start":{"column":13,"line":34},"end":{"column":42,"line":34}},"mutatorName":"ConditionalExpression","replacement":"false","statusReason":"Ignored because of excluded mutation \"ConditionalExpression\"","status":"Ignored","static":false}

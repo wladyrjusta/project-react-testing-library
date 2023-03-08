@@ -1,0 +1,1 @@
+{"fileName":"/home/wladyr/project-react-testing-library/sd-028-b-project-react-testing-library/src/pages/Pokedex.js","id":"30","location":{"start":{"column":11,"line":41},"end":{"column":86,"line":41}},"mutatorName":"ArrayDeclaration","replacement":"[]","statusReason":"Ignored because of excluded mutation \"ArrayDeclaration\"","status":"Ignored","static":false}
